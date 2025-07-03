@@ -39,11 +39,11 @@
 
 ## 🖼️ Screenshots
 
-(assets/screenshot-login.png) 
+(assets/1.png) 
 
-(assets/screenshot-desktop.png)
+(assets/2.png)
 
-(assets/screenshot-terminal.png)
+(assets/3.png)
 
 
 ---
