@@ -1,4 +1,4 @@
-# ⚡ Viduros OS
+# ⚡ VidurOS
 
 ![Logo](assets/logo.png) <!-- Replace with your actual logo path -->
 
