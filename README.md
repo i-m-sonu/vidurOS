@@ -51,7 +51,7 @@
 
 ### 🖥️ Run Live
 
-1. Download ISO from [Releases](https://github.com/yourusername/viduros/releases)
+1. Download ISO from [Releases](https://github.com/i-m-sonu/vidurOS/releases/tag/v0.1)
 2. Flash to USB using [Balena Etcher](https://etcher.io/) or [Rufus](https://rufus.ie/)
 3. Boot your PC or VM from USB
 4. Select **Try without installing**
