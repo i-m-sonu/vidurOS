@@ -39,11 +39,12 @@
 
 ## 🖼️ Screenshots
 
-| Login Screen | Desktop | Terminal Tools |
-|--------------|---------|----------------|
-| ![Login](assets/screenshot-login.png) | ![Desktop](assets/screenshot-desktop.png) | ![Tools](assets/screenshot-terminal.png) |
+(assets/screenshot-login.png) 
 
-> 💡 Store your screenshots in an `assets/` folder and make sure filenames match the above!
+(assets/screenshot-desktop.png)
+
+(assets/screenshot-terminal.png)
+
 
 ---
 
@@ -56,10 +57,4 @@
 3. Boot your PC or VM from USB
 4. Select **Try without installing**
 
-### 💾 Install Permanently (Optional)
 
-> Graphical installer coming soon!
-
-For now:
-```bash
-sudo apt install calamares
