@@ -52,7 +52,3 @@
 3. Boot into **Live Mode**
 4. Try without installing
 
-### 🧱 Full Install (Optional)
-
-```bash
-sudo apt install viduros-installer
