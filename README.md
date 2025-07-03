@@ -13,7 +13,7 @@
 
 ## 📥 Download
 
-➡️ **[Download Latest ISO](https://github.com/yourusername/viduros/releases/latest)**  
+➡️ **[Download Latest ISO](https://github.com/i-m-sonu/vidurOS/releases/tag/v0.1)**  
 
 > ✅ Lightweight ISO | ~1.7 GB  
 > ✅ Works on x86_64 CPUs
