@@ -1,6 +1,6 @@
 # ⚡ VidurOS
 
-![Logo](assets/logo.png) <!-- Replace with your actual logo path -->
+![Logo](assets/logo.jpeg) <!-- Replace with your actual logo path -->
 
 > A blazing-fast, lightweight Linux distribution built for **Cybersecurity**, **Programming**, and **AI/ML** – all while reviving older hardware.
 
