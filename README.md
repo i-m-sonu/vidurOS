@@ -17,8 +17,8 @@
 ➡️ **[Download Latest ISO](https://github.com/yourusername/viduros/releases/latest)**  
 ➡️ Or browse all [Releases](https://github.com/yourusername/viduros/releases)
 
-> ✅ Lightweight ISO | ~400–600 MB  
-> ✅ Works on x86_64 CPUs with as little as **2 GB RAM**
+> ✅ Lightweight ISO | ~1.7 GB  
+> ✅ Works on x86_64 CPUs
 
 ---
 
