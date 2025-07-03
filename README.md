@@ -8,9 +8,6 @@
 
 ![Made with Ubuntu](https://img.shields.io/badge/base-ubuntu%2022.04-blue)
 ![XFCE Desktop](https://img.shields.io/badge/Desktop-XFCE-lightgrey)
-![License](https://github.com/i-m-sonu/vidurOS/blob/main/LICENSE))
-![GitHub Release](https://img.shields.io/github/v/release/yourusername/viduros)
-![Downloads](https://img.shields.io/github/downloads/yourusername/viduros/total)
 
 ---
 
