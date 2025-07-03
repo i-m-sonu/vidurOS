@@ -7,7 +7,7 @@
 > A blazing-fast, lightweight Linux distribution built for **Cybersecurity**, **Programming**, and **AI/ML** – all while reviving older hardware.
 
 ![Made with Ubuntu](https://img.shields.io/badge/base-ubuntu%2022.04-blue)
-![XFCE Desktop](https://img.shields.io/badge/Desktop-XFCE-lightgrey)
+
 
 ---
 
