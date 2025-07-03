@@ -37,11 +37,9 @@
 
 ## 🖼️ Screenshots
 
-> Replace paths below with actual screenshots (e.g., `assets/screenshot1.png`)
 
-| Login | Desktop | Tools |
-|-------|---------|-------|
-| ![Login](assets/screenshot-login.png) | ![Desktop](assets/screenshot-desktop.png) | ![Apps](assets/screenshot-tools.png) |
+
+
 
 ---
 
