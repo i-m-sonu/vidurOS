@@ -1,6 +1,8 @@
 # ⚡ VidurOS
 
-![Logo](assets/logo.jpeg) <!-- Replace with your actual logo path -->
+<p align="center">
+  <img src="assets/logo.jpeg" alt="VidurOS Logo" width="120"/>
+</p>
 
 > A blazing-fast, lightweight Linux distribution built for **Cybersecurity**, **Programming**, and **AI/ML** – all while reviving older hardware.
 
@@ -28,7 +30,7 @@
 - 🧠 Preloaded with **AI/ML libraries** (TensorFlow, PyTorch optional)
 - 🛡️ Cybersecurity tools (Nmap, Wireshark, Metasploit, etc.)
 - 💡 Programming essentials (Python, Node.js, C/C++, Rust)
-- 🪶 Lightweight (~400 MB) – perfect for old laptops and VMs
+- 🪶 Lightweight – perfect for old laptops and VMs
 - 🌐 Live ISO — run without installation
 - 📦 APT + Flatpak support
 - 🔧 Built from `ubuntu-22.04.5-live-server-amd64.iso` using **Cubic**
@@ -37,9 +39,11 @@
 
 ## 🖼️ Screenshots
 
+| Login Screen | Desktop | Terminal Tools |
+|--------------|---------|----------------|
+| ![Login](assets/screenshot-login.png) | ![Desktop](assets/screenshot-desktop.png) | ![Tools](assets/screenshot-terminal.png) |
 
-
-
+> 💡 Store your screenshots in an `assets/` folder and make sure filenames match the above!
 
 ---
 
@@ -47,8 +51,15 @@
 
 ### 🖥️ Run Live
 
-1. Download ISO from [releases](https://github.com/yourusername/viduros/releases)
+1. Download ISO from [Releases](https://github.com/yourusername/viduros/releases)
 2. Flash to USB using [Balena Etcher](https://etcher.io/) or [Rufus](https://rufus.ie/)
-3. Boot into **Live Mode**
-4. Try without installing
+3. Boot your PC or VM from USB
+4. Select **Try without installing**
 
+### 💾 Install Permanently (Optional)
+
+> Graphical installer coming soon!
+
+For now:
+```bash
+sudo apt install calamares
